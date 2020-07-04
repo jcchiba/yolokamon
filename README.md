@@ -1,5 +1,10 @@
 # Yolo Kamon
 
+
+[![DOI](https://zenodo.org/badge/277101233.svg)](https://zenodo.org/badge/latestdoi/277101233)
+
+
+
 A Yolov5 Japanese Kamon detection Model.
 Tagged image dataset available in train, test and valid folders.
 For Inference use kamon.pt and refer to [Yolov5](https://github.com/ultralytics/yolov5)
