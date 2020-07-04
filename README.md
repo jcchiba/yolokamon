@@ -10,3 +10,10 @@ License
 ---
 
 Creative Commons BY-NC 4.0
+
+
+Reference
+---
+
+Glenn Jocher, Liu Changyu, Adam Hogan, Lijun Yu 于力军, changyu98, Prashant Rai, & Trevor Sullivan. (2020, June 25). ultralytics/yolov5: Initial Release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3908560
+
